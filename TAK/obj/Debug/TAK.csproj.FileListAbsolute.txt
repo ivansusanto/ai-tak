@@ -1,0 +1,30 @@
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\bin\Debug\TAK.exe.config
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\bin\Debug\TAK.exe
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\bin\Debug\TAK.pdb
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.csproj.AssemblyReference.cache
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.Properties.Resources.resources
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.csproj.GenerateResource.cache
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.exe
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.pdb
+C:\Users\User\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.TAK.resources
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\bin\Debug\TAK.exe.config
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\bin\Debug\TAK.exe
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\bin\Debug\TAK.pdb
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.csproj.AssemblyReference.cache
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.TAK.resources
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.Properties.Resources.resources
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.csproj.GenerateResource.cache
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.csproj.CoreCompileInputs.cache
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.exe
+C:\Users\xxlau\Documents\iSTTS\Semester 5\1 - Senin\2 - Kecerdasan Buatan\TAK\TAK\obj\Debug\TAK.pdb
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\bin\Debug\TAK.exe.config
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\bin\Debug\TAK.exe
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\bin\Debug\TAK.pdb
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\obj\Debug\TAK.csproj.AssemblyReference.cache
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\obj\Debug\TAK.TAK.resources
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\obj\Debug\TAK.Properties.Resources.resources
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\obj\Debug\TAK.csproj.GenerateResource.cache
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\obj\Debug\TAK.csproj.CoreCompileInputs.cache
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\obj\Debug\TAK.exe
+C:\Users\cingk\OneDrive\Documents\Febrian\SMT 5\AI\TAK\TAK\TAK\obj\Debug\TAK.pdb
